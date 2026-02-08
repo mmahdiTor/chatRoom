@@ -17,6 +17,20 @@ Designed with a glassmorphism UI and dark/light theme support.
 
 ---
 
+## 🧠 Performance & Hosting
+
+This chat room is designed to be **lightweight and optimized**.
+
+- 🚀 Runs smoothly even on **low-end hosting** (as low as **512MB RAM**)
+- 💾 Uses **SQLite**, no heavy database server required
+- 🧹 Automatically keeps only the **last 100 messages**
+- 🗑 Older messages are deleted automatically to reduce disk usage
+- ⚡ Optimized AJAX polling for fast and efficient message updates
+
+Perfect for small VPS, shared hosting, or minimal server environments.
+
+---
+
 ## 🛠 Technologies Used
 
 - PHP (PDO)
