@@ -54,8 +54,6 @@ git clone https://github.com/mmahdiTor/chatRoom.git
 Upload all project files to your hosting panel  
 (cPanel / DirectAdmin / etc)
 
-⚠️ **Do NOT upload `chat_database.db`**
-
 3. **Run the project**  
 Open your domain in the browser  
 The database will be created automatically on first run
