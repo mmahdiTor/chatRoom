@@ -62,10 +62,10 @@ Default users are defined inside `login.php`
   <tbody>
     <tr>
       <td align="center">
-        <img src="./screenshots/chat-light.png" width="100%" alt="Chat Light Mode">
+        <img src="./screenshots/Screenshot 2.png" width="100%" alt="Chat Light Mode">
       </td>
       <td align="center">
-        <img src="./screenshots/chat-dark.png" width="100%" alt="Chat Dark Mode">
+        <img src="./screenshots/Screenshot 1.png" width="100%" alt="Chat Dark Mode">
       </td>
     </tr>
   </tbody>
@@ -79,7 +79,7 @@ Default users are defined inside `login.php`
   <tbody>
     <tr>
       <td align="center">
-        <img src="./screenshots/login.png" width="70%" alt="Login Page">
+        <img src="./screenshots/Screenshot 3.png" width="70%" alt="Login Page">
       </td>
     </tr>
   </tbody>
