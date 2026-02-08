@@ -46,6 +46,9 @@ Perfect for small VPS, shared hosting, or minimal server environments.
 Follow these steps to run the project on your host:
 
 1. **Clone or download the repository**
+```bash
+git clone https://github.com/mmahdiTor/chatRoom.git
+```
 
 2. **Upload the files to your host**  
 Upload all project files to your hosting panel  
@@ -103,7 +106,7 @@ Default users are defined inside `login.php`
 
 ## 👤 Author
 
-Developed by **YourName**
+Developed by MahdiTor
 
 ---
 
