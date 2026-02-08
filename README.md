@@ -63,6 +63,26 @@ Default users are defined inside `login.php`
 
 ---
 
+## 👤 User Configuration
+
+User accounts are defined manually inside the `login.php` file.
+
+To add or edit users:
+
+1. Open `login.php`
+2. Locate the `$users` array
+3. Add a username and password as needed
+
+Example:
+
+```php
+$users = [
+    "mahdi" => "1234",
+    "Ali" => "5678"
+];
+```
+---
+
 ## 📸 Screenshots
 
 ### Chat Room
